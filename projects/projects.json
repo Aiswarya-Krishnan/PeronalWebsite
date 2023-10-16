@@ -1,0 +1,44 @@
+[
+  
+  {
+    "name": "Potfolio Site",
+      "desc": "Done with HTML, CSS, Javascript, Bootstrap",
+    "image": "portfolio",
+    "category": "mern",
+    "links": {
+      "view": "https://muhammadfarhankt.github.io/portfolio/",
+      "code": "https://muhammadfarhankt.github.io/portfolio/"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+      "desc": "Done with HTML and CSS",
+    "image": "youtube",
+    "category": "mern",
+    "links": {
+      "view": "https://aiswarya-krishnan.github.io/netflix-clone/",
+      "code": "https://github.com/Aiswarya-Krishnan/netflix-clone"
+    }
+  },
+  {
+    "name": "Flipcart Clone",
+    "desc": "Done with HTML and CSS",
+    "image": "zomato",
+    "category": "mern",
+    "links": {
+      "view": "https://aiswarya-krishnan.github.io/flipcart-home/",
+      "code": "https://github.com/Aiswarya-Krishnan/flipcart-home"
+    }
+  },
+  {
+    "name": "Google Clone",
+    "desc": "Done with HTML and CSS",
+    "image": "microsoft",
+    "category": "mern",
+    "links": {
+      "view": "https://aiswarya-krishnan.github.io/google/",
+      "code": "https://github.com/Aiswarya-Krishnan/google"
+    }
+  }
+
+]
